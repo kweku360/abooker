@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+
+# ABOOKER
 
 An Online Book Store and Library for the Ghanaian Market
 
@@ -31,6 +30,3 @@ Developer : Kweku Kankam <kwekukankam@gmail.com>
 ## License
 
 CLOSED SOURCED - Copyright 2015
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
